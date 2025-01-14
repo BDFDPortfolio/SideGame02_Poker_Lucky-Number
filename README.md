@@ -14,7 +14,7 @@
 
 Poker Side Game02 - Lucky Number
 
-**Project Link:** [Poker Side Game - Lucky Number](https://bdfdportfolio.tk/Game02_Lucky-Number/)
+**Project Link:** [Poker Side Game - Lucky Number](https://bdfdportfolio.github.io/SideGame02_Poker_Lucky-Number/)
 
 ## Project Description:
 
@@ -29,7 +29,7 @@ Description: Lucky Number
 **Projects:** Poker Side Bet Game
 
 **Reference:**  
-Demo: <a href="https://bdfdportfolio.tk/Game02_Lucky-Number/">Demo Website Link</a>
+Demo: <a href="https://bdfdportfolio.github.io/SideGame02_Poker_Lucky-Number/">Demo Website Link</a>
 
 <div align="center">
 
